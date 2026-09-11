@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 9269,
       "digest": null,
-      "download_count": 18,
+      "download_count": 19,
       "created_at": "2025-03-11T18:19:13Z",
       "updated_at": "2025-03-11T18:19:14Z",
       "browser_download_url": "https://github.com/driscollis/squall/releases/download/v0.1.8/squall_sql-0.1.8.tar.gz"
